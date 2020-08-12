@@ -18,6 +18,8 @@ for (item of buttons) {
             break;
           case 'magi':
             screen.value = "80%";
+          case 'magir bachchha':
+            screen.value = "90%"
             break;
           case 'sala':
             screen.value = '20%';
